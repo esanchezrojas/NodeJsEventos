@@ -1,4 +1,3 @@
-
 /**
  * Inicio de proyect
  * @module index
@@ -10,7 +9,7 @@
  * @class
  * @classdesc esta es la descrip de mi class class.
  */
-class entrada{
+class entrada {
 
 }
 
@@ -19,8 +18,7 @@ class entrada{
  * @function perfil
  * @param {object} user Trae los valores almacenados en la memoria cache.
  */
- function Book(title, author) {
-}
+function Book(title, author) {}
 
 
 /**
@@ -32,6 +30,18 @@ class entrada{
  * @param {NewType} a envia
  * @param {number} e recibe
  */
-function nueva(a,e){
+function nueva(a, e) {
+
+}
+
+/**
+ * recibe la vocales
+ * @param {*} a 
+ * @param {*} e 
+ * @param {*} i 
+ * @param {*} o 
+ * @param {*} u 
+ */
+function nueva2(a, e, i, o, u) {
 
 }
