@@ -1,0 +1,23 @@
+{
+    "name": "backend-wplay",
+    "version": "1.0.0",
+    "description": "Esta es la documentación del backend wplay repositorio web",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "docs": "jsdoc -c jsdoc.json"
+    },
+    "author": "Edwin Sanchez",
+    "license": "ISC",
+    "keywords": [],
+    "dependencies": {
+        "clean-jsdoc-theme": "^3.3.3",
+        "docdash": "^1.2.0",
+        "jsdoc": "^3.6.10",
+        "mysql": "^2.18.1",
+        "tui-jsdoc-template": "^1.2.2"
+    },
+    "directories": {
+        "doc": "docs"
+    }
+}
